@@ -363,8 +363,6 @@ Mac 用户按住快捷键 `Cmd+Shift+P` （Windows 用户按住快捷键`Ctrl+Sh
 
 
 
-
-
 ### 1、修改主题
 
 1）修改颜色主题：
@@ -576,6 +574,10 @@ VS Code 会根据你所打开的文件来决定该使用空格还是制表。也
 - folders：恢复上一次会话中包含文件夹的窗口。
 
 ![20211012_1704](http://img.smyhvae.com/20211012_1704.png)
+
+### 16、自动删除行尾的空格
+
+打开设置项，搜索`files.trimTrailingWhitespace`，将选项勾选，即可在保存文件时自动删除行尾的空格。
 
 
 
@@ -1650,4 +1652,8 @@ CSS Peek 对 Vue 没有支持，该插件提供了对 Vue 文件的支持。
 
 本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
 
-![](https://img.smyhvae.com/20210329_1930.png)
+## 赞赏作者
+
+创作不易，你的赞赏和认可，是我更新的最大动力：
+
+![](https://img.smyhvae.com/20220401_1800.jpg)
